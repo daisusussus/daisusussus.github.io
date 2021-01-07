@@ -1,6 +1,6 @@
 @font-face {
-    font-family: 'oswald';
-    src: url('https://daisusussus.github.io/font/Oswald.ttf');
+    font-family: 'Nunito';
+    src: url('https://daisusussus.github.io/font/Nunito.ttf');
     font-style: normal;
     font-weight: normal;
 }
@@ -8,7 +8,7 @@
 /* ----------------------------------------------------------------------- */
 
 *:not(code), ::-webkit-input-placeholder {
-    font-family: oswald !important;
+    font-family: Nunito !important;
     font-size: var(--font-size, initial);
     word-spacing: var(--word-spacing, initial);
     letter-spacing: var(--letter-spacing, initial);
